@@ -32,6 +32,10 @@ A National Van Rental company’s has expenses that are variables based on deman
 # The Experimentation Process
 
 <!-- #region -->
+## Machines Used:
+- **Macbook:** CPU 4; 16gb Ram; With GPU
+- **AWS EC2:** CPU 16; 64gb Ram; No GPU
+
 ## Data
 
 **Raw Data:** CSV
