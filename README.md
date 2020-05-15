@@ -25,7 +25,9 @@ A National Van Rental company’s has expenses that are variables based on deman
 <!-- #endregion -->
 
 # The Issue
-
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/predictions.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 # The Experimentation Process
 
@@ -64,14 +66,23 @@ A National Van Rental company’s has expenses that are variables based on deman
 
 
 ## Scoring Metric
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/scoring_metric.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 ## Stationarity: Original Data
 
 ### Plot
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/stationarity_plot_orig.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 
 ### Dickey Fuller Test
-
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/dickery_fuller_orig.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 # The Results
 
