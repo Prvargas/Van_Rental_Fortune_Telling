@@ -97,7 +97,13 @@ A National Van Rental company’s has expenses that are variables based on deman
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-# Interpretation
+# Business Question Answers
+- Peak Day: Friday
+- Peak Months: June & July
+- Slow Day: Sunday
+- Slow Months: January & December
+- More fleet information is needed
+
 
 ```python
 
