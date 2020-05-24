@@ -82,19 +82,20 @@ A National Van Rental company’s has expenses that are variables based on deman
 
 ## Stationarity: Original Data
 
-### Plot
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/stationarity_plot_orig.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 
-### Dickey Fuller Test
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/dickery_fuller_orig.png"
      alt="Markdown Monster icon"
+     height="300" width="600"
      style="float: left; margin-right: 10px;" />
 
 # The Results
-
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/model_results.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 # Interpretation
 
