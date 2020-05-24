@@ -97,6 +97,16 @@ A National Van Rental company’s has expenses that are variables based on deman
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+
+## Best Model Train/Tune/Test 
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/fbprophet_tuning.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/fbprophet_plot.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 # Business Question Answers
 - Peak Day: Friday
 - Peak Months: June & July
