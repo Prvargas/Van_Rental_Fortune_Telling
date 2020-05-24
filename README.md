@@ -54,10 +54,15 @@ A National Van Rental company’s has expenses that are variables based on deman
 ## EDA
 
 ### Years Combined
-
-### Years Split
-
-### Time Series
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/eda_years_combined.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+     
+### Years Split/Time Series
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/eda_years_split.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 
 ## Algorithms Outline
