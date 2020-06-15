@@ -24,7 +24,7 @@ A National Van Rental company’s has expenses that are variables based on deman
 
 <!-- #endregion -->
 
-# The Issue
+# The Problem
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/predictions.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
@@ -57,13 +57,17 @@ A National Van Rental company’s has expenses that are variables based on deman
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/eda_years_combined.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-     
+
+- The bell curve shape histogram indicates sales follows a Normal Distribution.
+- In the boxplot we see the monthly seasonality via the wavy shape.
      
 ### Years Split/Time Series
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/eda_years_split.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
+- The Sales By Month bar chart shows peak months are in the summer.
+- The Sales by Day of Week bar chart shows the peak day is Friday.
 
 ## Algorithms Outline
 
@@ -77,8 +81,10 @@ A National Van Rental company’s has expenses that are variables based on deman
 ## Scoring Metric
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/scoring_metric.png"
      alt="Markdown Monster icon"
+     height="300" width="700"
      style="float: left; margin-right: 10px;" />
 
+- The lower the error the better the model.
 
 ## Stationarity: Original Data
 
@@ -92,6 +98,11 @@ A National Van Rental company’s has expenses that are variables based on deman
      height="300" width="600"
      style="float: left; margin-right: 10px;" />
 
+- The Dickey Fuller test is a mathematical test for stationarity. 
+- This data is NOT stationary. 
+- In order to use certain algorithms the data must be stationary.
+
+
 # The Results
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/model_results.png"
      alt="Markdown Monster icon"
@@ -102,6 +113,10 @@ A National Van Rental company’s has expenses that are variables based on deman
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/fbprophet_tuning.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+
+- The Graphs above show RMSE on the y-axis and fbprophet trend hyperparameters on the x-axis.
+- The smallest RMSE is indicated by the dotted redline per graph.
+
 
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/fbprophet_plot.png"
      alt="Markdown Monster icon"
