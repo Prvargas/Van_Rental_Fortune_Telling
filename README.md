@@ -133,6 +133,8 @@ A National Van Rental company’s has expenses that are variables based on deman
 3. There is always immediate funding when vans are being purchased.
 
 
+
+
 **Experiment Rules:**
 
 **First Rule.** Optimal fleet availability is double the predicted demand.
@@ -143,6 +145,12 @@ A National Van Rental company’s has expenses that are variables based on deman
 
 **Fourth Rule.** Anytime fleet is in the negative it will cost the company 400 Dollars in revenue per vehicle.
 
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/model_application.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+**Model Application Results**
+- If the model was deployed the company would have save $360K thousand dollars for the Los Angeles Location!
 
 # Business Question Answers
 - Peak Day: Friday
@@ -153,7 +161,7 @@ A National Van Rental company’s has expenses that are variables based on deman
 
 
 # Conclusion
-I was able to successfully build a model. I believe an even better model can be created given more time & more data.
+For this van rental company COMPLETE fleet automation may be too ambitious, BUT AUGMENTING fleet decisions is very possible and it would contribute immense value to this organization.
 
 ```python
 
