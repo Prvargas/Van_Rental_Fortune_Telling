@@ -150,6 +150,8 @@ A National Van Rental company has expenses that are variables based on demand. T
      style="float: left; margin-right: 10px;" />
 
 **Model Application Results**
+- The highest amount of over fleeting cost happens late December to early January.
+- Performance between man and model oscillated between profit and loss.
 - If the model was deployed the company would have save $360K thousand dollars for the Los Angeles Location!
 
 # Tableau Dashboard
@@ -167,7 +169,7 @@ A National Van Rental company has expenses that are variables based on demand. T
 - Peak Months: June & July
 - Slow Day: Sunday
 - Slow Months: January & December
-- More fleet information is needed
+- The company should look into drastically reducing fleet late December to early January.
 
 
 # Conclusion
