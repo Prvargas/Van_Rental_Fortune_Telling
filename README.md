@@ -4,7 +4,7 @@ Time series dataset used to predict van rental sales demand.
 <!-- #region -->
 # BackGround
 
-A National Van Rental company’s has expenses that are variables based on demand. The largest and most volatile expense is the fleet cost. If the fleet is too large, then massive quantities of car notes are paid on unused vans. If the fleet is too small, then revenues and market share are lossed.
+A National Van Rental company has expenses that are variables based on demand. The largest and most volatile expense is the fleet cost. If the fleet is too large, then massive quantities of car notes are paid on unused vans. If the fleet is too small, then revenues and market shares are lossed.
 
 
 ## Questions to solve this business problem: 
@@ -151,6 +151,16 @@ A National Van Rental company’s has expenses that are variables based on deman
 
 **Model Application Results**
 - If the model was deployed the company would have save $360K thousand dollars for the Los Angeles Location!
+
+# Tableau Dashboard
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/tableau.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+- I created a Tableau dashboard with an interactive map showing sales demand by state & by city
+- The pie chart shows the split between repeat customers and non-repeat customers.
+- The horizontal bar graph shows demand by van type.
+- A dashboard like this could be utilized by a company's non technical employees to observe the results of some of these very technical time series analyses. 
 
 # Business Question Answers
 - Peak Day: Friday
