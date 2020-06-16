@@ -121,6 +121,28 @@ A National Van Rental company’s has expenses that are variables based on deman
 <img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/fbprophet_plot.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+     
+- I used 70% of the data to train the model and 30% of the data to test and evaluate model performance.
+- The blue line represents the **PREDICTIONS** and the orange line represents the **ACTUALS** from the test data.
+- The blue **PREDICTION** line and the orange **ACTUALS** line **OVERLAP** nicely, indicating the model is performing well. 
+
+# Model Application Experiment
+**Experiment Reality:**
+1. Cars can be purchased and sold every day with no lag.
+2. There is always an immediate buyer when vans are being sold.
+3. There is always immediate funding when vans are being purchased.
+
+
+**Experiment Rules:**
+
+**First Rule.** Optimal fleet availability is double the predicted demand.
+
+**Second Rule.** Any time fleet is greater than one BUT less than optimal, the company will benefit 400 Dollars per car.
+
+**Third Rule.** Any time fleet is over the optimal mark it will cost the company 400 Dollars per vehicle.
+
+**Fourth Rule.** Anytime fleet is in the negative it will cost the company 400 Dollars in revenue per vehicle.
+
 
 # Business Question Answers
 - Peak Day: Friday
