@@ -172,6 +172,11 @@ A National Van Rental company has expenses that are variables based on demand. T
 - The company should look into drastically reducing fleet late December to early January.
 
 
+# Tech Stack
+<img src="https://github.com/Prvargas/Van_Rental_Fortune_Telling/blob/master/img/tech_stack.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 # Conclusion
 For this van rental company COMPLETE fleet automation may be too ambitious, BUT AUGMENTING fleet decisions is very possible and it would contribute immense value to this organization.
 
